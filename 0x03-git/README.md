@@ -43,3 +43,8 @@ This directory contains initial work with git:
   * Update the file [bash/holberon](0x03-git/bash/holberton) by replacing `echo "Holberton"` with echo `"Holberton School os so cool!"`
   * Delete the directory [js](/0x03-git/js)
   * Add these changes with the commit message "Hot fix"
+3. [Collaboration: be up to date](/0x03-git)
+* Update the README on GitHub
+* On the terminal, on the main branch, pull all changes locally
+* Create new file [up_to_date](/0x03-git/up_to_date) and add command used
+* Add changes with commit message "How to be up to date in git”
